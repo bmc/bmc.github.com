@@ -1,0 +1,112 @@
+body
+{
+    background-color: white;
+    font-family: arial, helvetica, verdana, sans-serif;
+}
+
+body.rounded-borders
+{
+    background-color: black;
+}
+
+span.title
+{
+    font-size: 150%;
+    font-weight: bold;
+}
+
+table.container
+{
+    background-color: black;
+    border: 0;
+}
+
+table.container tr td
+{
+    background-color: white;
+}
+
+td.corner
+{
+    background-color: black;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:link
+{
+/*
+    color: red;
+*/
+    color: #3333aa;
+}
+
+a:visited
+{
+    color: #770099;
+}
+
+a:hover
+{
+/*
+    background-color: #eed2ee;
+    color: #000000;
+*/
+    color: grey;
+}
+
+.fakelink { color: #ff0000; }
+
+
+pre
+{
+    font-family: monospace, Courier, Courier New;
+}
+
+.path
+{
+    font-family: monospace, Courier, Courier New;
+}
+
+.filename
+{
+    font-family: monospace, Courier, Courier New;
+}
+
+.warning
+{
+    font-family: sans-serif, Arial, Helvetica;
+
+    margin-left: 15em;
+    margin-right: 15em;
+
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+    border-width: 3px;
+    border-spacing: 5px;
+    border-style: solid;
+    border-color: red;
+    border-collapse: collapse;
+
+    background-color: #d9d9d9;
+}
+
+.box
+{
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    border-width: 1px;
+    border-spacing: 5px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+}
