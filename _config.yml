@@ -1,2 +1,2 @@
-exclude: run-markdown.sh
+exclude: README.md
 pygments: false
