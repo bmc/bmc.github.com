@@ -3,7 +3,7 @@
 // Ensure all headings are added to the page table of contents. Adapted from 
 // http://www.bright-green.com/blog/2004_06_02/javascript_table_of_contents.html
 
-window.onload = createTOC;
+/* window.onload = createTOC; */
 
 function createTOC()
 {
