@@ -64,6 +64,9 @@ a:hover
 pre
 {
     font-family: monospace, Courier, Courier New;
+    width: 85%;
+    background-color:#edf6fc;
+    border: 1px dashed #666;
 }
 
 .path
