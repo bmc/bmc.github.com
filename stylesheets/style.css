@@ -2,7 +2,7 @@ body
 {
     border-left: 5em solid black;
     border-right: 5em solid black;
-    background-color: black;
+    background-color: white;
     margin: 0;
     padding: 0;
     font-family: Arial, Verdana, Helvetica, sans-serif;
@@ -14,6 +14,19 @@ body.rounded-borders
 }
 
 /* --- START table of contents styling. See toc.js */
+
+div#toc
+{
+    width: auto;
+}
+
+span#tocHeading
+{
+    background-color: #f0f0f0;
+    width: auto;
+    font-weight: bold;
+    font-size: larger;
+}
 
 div#tocBlock
 {
@@ -28,6 +41,43 @@ div#tocBlock
     width: 40%;
     float: right;
 }
+
+ul.toc
+{
+}
+
+li.tocH1
+{
+    margin-left: 0em
+}
+
+li.tocH2
+{ 
+    margin-left: 1em
+}
+
+li.tocH3
+{ 
+    margin-left: 2em
+}
+
+li.tocH4
+{ 
+    margin-left: 3em
+}
+
+li.tocH5
+{
+    margin-left: 4em
+}
+
+li.tocH6
+{
+    margin-left: 5em
+}
+
+/* --- END table of contents styles */
+
 
 span.title
 {
@@ -49,6 +99,46 @@ table.container tr td
 td.corner
 {
     background-color: black;
+}
+
+h2
+{
+    background-color: #aaaaaa;
+    border: 1px solid black;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+h3
+{
+    background-color: #dddddd;
+    border: 1px solid black;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+h4
+{ 
+    border: 1px solid #dddddd;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+h5
+{ 
+    font-style: italic;
+    text-decoration: underline;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+h6
+{ 
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: underline;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 a
@@ -84,7 +174,16 @@ a:hover
 pre
 {
     font-family: monospace, Courier, Courier New;
+
+    border: 1px dashed #666;
+    overflow: auto;
+    overflow-y: hidden;
+    -ms-overflow-y: hidden;
+
+    margin-left: 3em;
+    padding: 10px;
     width: 85%;
+
     background-color:#edf6fc;
     border: 1px dashed #666;
 }
@@ -132,4 +231,127 @@ pre
     border-style: solid;
     border-color: black;
     border-collapse: collapse;
+}
+
+div.site
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    padding: 10px;
+}
+
+div.header
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+}
+
+span.title
+{
+    font-size: 18pt;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+table.banner
+{
+    border-bottom: 1px solid #999999;
+    width: 100%;
+}
+
+table.banner td.banner-image
+{
+    padding-left: 0;
+    padding-right: 1em;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+table.banner td.banner-title
+{
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+div.linktabs
+{
+    float: right;
+    background-color: white;
+}
+
+.linktabs
+{
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.linktab
+{
+    background-color: #aaaaaa;
+    color: white;
+    border-left: 1px solid #999999;
+    border-right: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+    border-top: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    padding-top: 0;
+    margin: 0;
+    text-align: center;
+    width: auto;
+}
+
+hr
+{
+    height: 1px;
+    border: 0;
+    color: #999999;
+    background-color: #999999;
+}
+
+.linktab a
+{
+    text-decoration: none;
+    color: white;
+}
+
+div.byline
+{
+    margin-top: 1em;
+    margin-right: 1em;
+    text-align: right;
+}
+
+span.author
+{
+}
+
+span.email
+{
+    font-style: italic;
+}
+
+ul
+{
+}
+
+ol
+{
+}
+
+p
+{
+}
+
+div#license p
+{
+    margin-left: 0em;
 }
