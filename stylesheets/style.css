@@ -1,8 +1,9 @@
 body
 {
+    border-top: 1em solid black;
     border-left: 5em solid black;
     border-right: 5em solid black;
-    border-bottom: 5em solid black;
+    border-bottom: 2em solid black;
     background-color: white;
     margin: 0;
     padding: 0;
