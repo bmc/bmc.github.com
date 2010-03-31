@@ -16,6 +16,11 @@ body.rounded-borders
     background-color: black;
 }
 
+div.content
+{
+    height: 100%;
+}
+
 /* --- START table of contents styling. See toc.js */
 
 div#toc
