@@ -13,4 +13,4 @@ layout: default
 [My main web site]: http://www.clapper.org/bmc/
 [My consulting company]: http://www.ardentex.com/
 [My blog]: http://brizzled.clapper.org/
-[All my open source software]: http://www.clapper.org/sofware/
+[All my open source software]: http://www.clapper.org/software/
