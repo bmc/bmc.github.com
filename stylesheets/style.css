@@ -136,8 +136,8 @@ h4
 
 h5
 { 
+    border: 1px solid #dddddd;
     font-style: italic;
-    text-decoration: underline;
     padding-left: 1em;
     padding-right: 1em;
 }
