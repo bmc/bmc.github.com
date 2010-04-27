@@ -99,7 +99,7 @@ span.subtitle
 {
     font-size: 100%;
     font-weight: bold;
-    font-style: italic;
+    font-style: italic, oblique;
 }
 
 table.container
