@@ -95,6 +95,13 @@ span.title
     font-weight: bold;
 }
 
+span.subtitle
+{
+    font-size: 100%;
+    font-weight: bold;
+    font-style: italic;
+}
+
 table.container
 {
     background-color: black;
