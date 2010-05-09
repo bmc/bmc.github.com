@@ -28,6 +28,7 @@ div#content
 div#toc
 {
     width: auto;
+    font-size: 8pt;
 }
 
 span#tocHeading
