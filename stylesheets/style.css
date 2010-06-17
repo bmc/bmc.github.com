@@ -123,8 +123,8 @@ h1
 {
     background-color: white;
     border: 1px solid black;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 0.125em;
+    padding-left: 0.125em;
 }
 
 h2
