@@ -10,6 +10,7 @@ body
     font-family: Arial, Verdana, Helvetica, sans-serif;
     /* min-height: 95%; */
     /* height: 95%; */
+    font-size: 11pt;
 }
 
 body.rounded-borders
@@ -89,12 +90,6 @@ li.tocH6
 
 /* --- END table of contents styles */
 
-
-span.title
-{
-    font-size: 150%;
-    font-weight: bold;
-}
 
 span.subtitle
 {
@@ -276,7 +271,7 @@ div.header
 
 span.title
 {
-    font-size: 18pt;
+    font-size: 16pt;
     font-family: Arial, Verdana, Helvetica, sans-serif;
     font-weight: bold;
     font-style: italic;
