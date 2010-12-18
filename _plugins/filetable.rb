@@ -35,6 +35,7 @@ module Jekyll
   #                    #{css_prefix}_blurb   - a blurb cell (<td>)
   #                    #{css_prefix}_desc    - a description cell (<td>)
   class TableFromFile < Liquid::Tag
+    safe true
 
     # Must have file. Delimiter is option.
 
