@@ -1,0 +1,100 @@
+--- 
+- topic: C Tools and Libraries
+  items: 
+  - url: http://bmc.github.com/poll/
+    blurb: "*poll*(2) emulator"
+    description: Routine to emulate System V *poll*(2) function for BSD Unix systems
+  - url: http://bmc.github.com/daemonize/
+    blurb: daemonize
+    description: Run commands as Unix dameons
+
+- topic: Scala Tools and Libraries
+  items: 
+
+  - url: http://bmc.github.com/avsl/
+    blurb: "AVSL: *A Very Simple Logger*"
+    description: "[SLF4J](http://slf4j.org/)-compliant logger API that aims for simplicity."
+
+  - url: http://bmc.github.com/classutil/
+    blurb: ClassUtil
+    description: A fast class-finder library, with extras
+
+  - url: http://bmc.github.com/grizzled-scala/
+    blurb: Grizzled Scala
+    description: A general-purpose Scala utility library
+
+  - url: http://bmc.github.com/grizzled-slf4j/
+    blurb: Grizzled SLF4J
+    description: A Scala wrapper for the [Simple Logging Facade for Java (SLF4J)](http://slf4j.org/)
+
+  - url: http://bmc.github.com/markwrap/
+    blurb: MarkWrap
+    description: A unified Scala API for various lightweight markup languages, including Markdown and Textile
+
+  - url: http://bmc.github.com/sbt-plugins/
+    blurb: SBT Plugins
+    description: Various plugins for the [SBT](http://code.google.com/p/simple-build-tool) Scala build tool.
+
+  - url: http://bmc.github.com/scalasti/
+    blurb: Scalasti
+    description: A Scala interface to the [StringTemplate](http://stringtemplate.org/) library
+
+  - url: http://bmc.github.com/sqlshell/
+    blurb: SQLShell
+    description: A cross-platform, cross-database SQL shell
+
+- topic: Java Tools and Libraries
+  items: 
+  - url: http://bmc.github.com/javautil/
+    blurb: "*org.clapper.util* Library"
+    description: A general-purpose Java utility library
+
+  - url: http://bmc.github.com/javaeditline/
+    blurb: Java EditLine
+    description: A Java (JNI) interface to the BSD Editline command editing and history library
+
+  - url: http://bmc.github.com/curn/
+    blurb: "*curn*"
+    description: The *curn* RSS reader
+
+- topic: Python Tools and Libraries
+  items:
+  - url: http://bmc.github.com/digest/
+    blurb: digest
+    description: Calculate message digests from the command line
+
+  - url: http://bmc.github.com/fortune/
+    blurb: fortune
+    description: Python version of the classic *fortune* program
+
+  - url: http://bmc.github.com/grizzled/
+    blurb: Grizzled Python
+    description: The Grizzled Python Utility Library
+
+  - url: http://bmc.github.com/munkres/
+    blurb: munkres
+    description: A Python implementation of the Munkres algorithm (also called the [Hungarian algorithm](http://en.wikipedia.org/wiki/Hungarian_algorithm/) or the Kuhn-Munkres algorithm)
+
+  - url: http://bmc.github.com/paragrep/
+    blurb: paragrep
+    description: A paragraph *grep* utility
+
+  - url: http://bmc.github.com/picoblog/
+    blurb: picoblog
+    description: Sample blogging software for Google App Engine
+
+  - url: http://bmc.github.com/pyutmp/
+    blurb: pyutmp
+    description: A Python interface to the Unix *utmp* file
+
+  - url: http://github.com/bmc/retain/
+    blurb: retain
+    description: Remove all files in a directory, except those specified
+
+  - url: http://github.com/bmc/sqlcmd/
+    blurb: sqlcmd
+    description: A cross-platform, cross-database SQL command line tool. (Superseded by SQLShell.)
+
+  - url: http://github.com/bmc/grizzled-wing/
+    blurb: Grizzled Wing IDE commands
+    description: Additional Emacs emulation commands for the Wing Python IDE

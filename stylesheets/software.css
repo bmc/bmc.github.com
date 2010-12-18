@@ -1,0 +1,55 @@
+table.software_table 
+{
+    background-color: #d5d5d5;
+    padding: 0px;
+    width: 100%;
+}
+
+tr.software_entry
+{
+    background-color: white;
+}
+
+td.software_blurb
+{
+    padding: 5px;
+}
+
+td.software_desc
+{
+    padding: 5px;
+}
+
+tr.software_header td
+{
+    background-color: #d5d5d5;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: #000000;
+}
+
+span.title
+{
+    color: white;
+    padding: 5px;
+}
+
+.banner
+{
+    color: white;
+}
+
+.banner-title
+{
+    background-image: url(http://www.clapper.org/images/keyboard_enter.jpg);
+    background-color: white;
+    background-position: left center;
+    background-repeat: no-repeat;
+    text-align: right;
+}
+
+div#content
+{
+    border: none !important;
+}
