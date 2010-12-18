@@ -1,8 +1,6 @@
 module Jekyll
     class TestTag < Liquid::Tag
 
-        safe true
-
         def initialize(tag_name, text, tokens)
             super
         end
