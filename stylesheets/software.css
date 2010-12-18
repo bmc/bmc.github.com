@@ -35,9 +35,11 @@ span.title
     padding: 5px;
 }
 
+
 .banner
 {
     color: white;
+    float: center;
 }
 
 .banner-title
@@ -49,7 +51,15 @@ span.title
     text-align: right;
 }
 
+div#header
+{
+    width: 800px;
+    float: center;
+}
+
 div#content
 {
     border: none !important;
+    width: 800px;
+    float: center;
 }

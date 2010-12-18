@@ -1,89 +1,89 @@
 --- 
 - topic: C Tools and Libraries
   items: 
-  - url: http://bmc.github.com/poll/
+  - url: http://software.clapper.org/poll/
     blurb: "*poll*(2) emulator"
     description: Routine to emulate System V *poll*(2) function for BSD Unix systems
-  - url: http://bmc.github.com/daemonize/
+  - url: http://software.clapper.org/daemonize/
     blurb: daemonize
     description: Run commands as Unix dameons
 
 - topic: Scala Tools and Libraries
   items: 
 
-  - url: http://bmc.github.com/avsl/
+  - url: http://software.clapper.org/avsl/
     blurb: "AVSL: *A Very Simple Logger*"
     description: "[SLF4J](http://slf4j.org/)-compliant logger API that aims for simplicity."
 
-  - url: http://bmc.github.com/classutil/
+  - url: http://software.clapper.org/classutil/
     blurb: ClassUtil
     description: A fast class-finder library, with extras
 
-  - url: http://bmc.github.com/grizzled-scala/
+  - url: http://software.clapper.org/grizzled-scala/
     blurb: Grizzled Scala
     description: A general-purpose Scala utility library
 
-  - url: http://bmc.github.com/grizzled-slf4j/
+  - url: http://software.clapper.org/grizzled-slf4j/
     blurb: Grizzled SLF4J
     description: A Scala wrapper for the [Simple Logging Facade for Java (SLF4J)](http://slf4j.org/)
 
-  - url: http://bmc.github.com/markwrap/
+  - url: http://software.clapper.org/markwrap/
     blurb: MarkWrap
     description: A unified Scala API for various lightweight markup languages, including Markdown and Textile
 
-  - url: http://bmc.github.com/sbt-plugins/
+  - url: http://software.clapper.org/sbt-plugins/
     blurb: SBT Plugins
     description: Various plugins for the [SBT](http://code.google.com/p/simple-build-tool) Scala build tool.
 
-  - url: http://bmc.github.com/scalasti/
+  - url: http://software.clapper.org/scalasti/
     blurb: Scalasti
     description: A Scala interface to the [StringTemplate](http://stringtemplate.org/) library
 
-  - url: http://bmc.github.com/sqlshell/
+  - url: http://software.clapper.org/sqlshell/
     blurb: SQLShell
     description: A cross-platform, cross-database SQL shell
 
 - topic: Java Tools and Libraries
   items: 
-  - url: http://bmc.github.com/javautil/
+  - url: http://software.clapper.org/javautil/
     blurb: "*org.clapper.util* Library"
     description: A general-purpose Java utility library
 
-  - url: http://bmc.github.com/javaeditline/
+  - url: http://software.clapper.org/javaeditline/
     blurb: Java EditLine
     description: A Java (JNI) interface to the BSD Editline command editing and history library
 
-  - url: http://bmc.github.com/curn/
+  - url: http://software.clapper.org/curn/
     blurb: "*curn*"
     description: The *curn* RSS reader
 
 - topic: Python Tools and Libraries
   items:
-  - url: http://bmc.github.com/digest/
+  - url: http://software.clapper.org/digest/
     blurb: digest
     description: Calculate message digests from the command line
 
-  - url: http://bmc.github.com/fortune/
+  - url: http://software.clapper.org/fortune/
     blurb: fortune
     description: Python version of the classic *fortune* program
 
-  - url: http://bmc.github.com/grizzled/
+  - url: http://software.clapper.org/grizzled/
     blurb: Grizzled Python
     description: The Grizzled Python Utility Library
 
-  - url: http://bmc.github.com/munkres/
+  - url: http://software.clapper.org/munkres/
     blurb: munkres
     description: A Python implementation of the Munkres algorithm (also called the [Hungarian algorithm](http://en.wikipedia.org/wiki/Hungarian_algorithm/) or the Kuhn-Munkres algorithm)
 
-  - url: http://bmc.github.com/paragrep/
+  - url: http://software.clapper.org/paragrep/
     blurb: paragrep
     description: A paragraph *grep* utility
 
-  - url: http://bmc.github.com/picoblog/
+  - url: http://software.clapper.org/picoblog/
     blurb: picoblog
     description: Sample blogging software for Google App Engine
 
-  - url: http://bmc.github.com/pyutmp/
+  - url: http://software.clapper.org/pyutmp/
     blurb: pyutmp
     description: A Python interface to the Unix *utmp* file
 
