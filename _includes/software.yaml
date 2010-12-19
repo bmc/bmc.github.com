@@ -8,6 +8,8 @@
     blurb: "*poll*(2) emulator"
     description: Routine to emulate System V *poll*(2) function for BSD Unix systems
 
+# ---------------------------------------------------------------------------
+
 - topic: Scala Tools and Libraries
   items: 
 
@@ -47,19 +49,23 @@
     blurb: SQLShell
     description: A cross-platform, cross-database SQL shell
 
+# ---------------------------------------------------------------------------
+
 - topic: Java Tools and Libraries
   items: 
-  - url: http://software.clapper.org/javautil/
-    blurb: "*org.clapper.util* Library"
-    description: A general-purpose Java utility library
+  - url: http://software.clapper.org/curn/
+    blurb: "*curn*"
+    description: The *curn* RSS reader
 
   - url: http://software.clapper.org/javaeditline/
     blurb: Java EditLine
     description: A Java (JNI) interface to the BSD Editline command editing and history library
 
-  - url: http://software.clapper.org/curn/
-    blurb: "*curn*"
-    description: The *curn* RSS reader
+  - url: http://software.clapper.org/javautil/
+    blurb: "*org.clapper.util* Library"
+    description: A general-purpose Java utility library
+
+# ---------------------------------------------------------------------------
 
 - topic: Python Tools and Libraries
   items:
