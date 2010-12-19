@@ -1,12 +1,12 @@
 --- 
 - topic: C Tools and Libraries
   items: 
-  - url: http://software.clapper.org/poll/
-    blurb: "*poll*(2) emulator"
-    description: Routine to emulate System V *poll*(2) function for BSD Unix systems
   - url: http://software.clapper.org/daemonize/
     blurb: daemonize
     description: Run commands as Unix dameons
+  - url: http://software.clapper.org/poll/
+    blurb: "*poll*(2) emulator"
+    description: Routine to emulate System V *poll*(2) function for BSD Unix systems
 
 - topic: Scala Tools and Libraries
   items: 
