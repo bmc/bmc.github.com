@@ -11,6 +11,10 @@
 - topic: Scala Tools and Libraries
   items: 
 
+  - url: http://software.clapper.org/argot/
+    blurb: Argot, a command line parser
+    description: A command-line parser for Scala
+
   - url: http://software.clapper.org/avsl/
     blurb: "AVSL: *A Very Simple Logger*"
     description: "[SLF4J](http://slf4j.org/)-compliant logger API that aims for simplicity."
