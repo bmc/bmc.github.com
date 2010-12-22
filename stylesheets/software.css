@@ -55,6 +55,7 @@ div#header
 {
     width: 800px;
     float: center;
+    text-align: center;
 }
 
 div#content
@@ -62,4 +63,13 @@ div#content
     border: none !important;
     width: 800px;
     float: center;
+}
+
+span.gh-repo
+{
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-style: italic;
 }
