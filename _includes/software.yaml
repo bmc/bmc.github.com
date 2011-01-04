@@ -3,7 +3,7 @@
   items: 
   - url: http://software.clapper.org/daemonize/
     blurb: daemonize
-    description: Run commands as Unix dameons
+    description: Run commands as Unix daemons
   - url: http://software.clapper.org/poll/
     blurb: "*poll*(2) emulator"
     description: Routine to emulate System V *poll*(2) function for BSD Unix systems
