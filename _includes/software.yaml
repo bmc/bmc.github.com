@@ -65,7 +65,7 @@
     blurb: "*org.clapper.util* Library"
     description: A general-purpose Java utility library
 
-  - url: http://software/clapper.org/jedit-emacs/
+  - url: http://software.clapper.org/jedit-emacs/
     blurb: jEdit Emacs macros
     description: Emacs emulation macros for the jEdit editor
 
