@@ -112,3 +112,11 @@
   - url: http://github.com/bmc/grizzled-wing/
     blurb: Grizzled Wing IDE commands
     description: Additional Emacs emulation commands for the Wing Python IDE
+
+# ---------------------------------------------------------------------------
+
+- topic: Ruby Tools and Libraries
+  items:
+  - url: http://software.clapper.org/grizzled-ruby/
+    blurb: grizzled-ruby
+    description: The Grizzled Ruby Utility Library
