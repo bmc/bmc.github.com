@@ -1,14 +1,4 @@
 --- 
-- topic: C Tools and Libraries
-  items: 
-  - url: http://software.clapper.org/daemonize/
-    blurb: daemonize
-    description: Run commands as Unix daemons
-  - url: http://software.clapper.org/poll/
-    blurb: "*poll*(2) emulator"
-    description: Routine to emulate System V *poll*(2) function for BSD Unix systems
-
-# ---------------------------------------------------------------------------
 
 - topic: Scala Tools and Libraries
   items: 
@@ -81,7 +71,7 @@
     blurb: fortune
     description: Python version of the classic *fortune* program
 
-  - url: http://software.clapper.org/grizzled/
+  - url: http://software.clapper.org/grizzled-python/
     blurb: Grizzled Python
     description: The Grizzled Python Utility Library
 
@@ -120,3 +110,15 @@
   - url: http://software.clapper.org/grizzled-ruby/
     blurb: Grizzled Ruby
     description: The Grizzled Ruby Utility Library
+
+# ---------------------------------------------------------------------------
+
+- topic: C Tools and Libraries
+  items: 
+  - url: http://software.clapper.org/daemonize/
+    blurb: daemonize
+    description: Run commands as Unix daemons
+  - url: http://software.clapper.org/poll/
+    blurb: "*poll*(2) emulator"
+    description: Routine to emulate System V *poll*(2) function for BSD Unix systems
+
