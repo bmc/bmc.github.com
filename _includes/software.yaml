@@ -107,6 +107,10 @@
 
 - topic: Ruby Tools and Libraries
   items:
+  - url: http://software.clapper.org/grinc/
+    blurb: *grinc*
+    description: A simple include-file preprocessor command
+
   - url: http://software.clapper.org/grizzled-ruby/
     blurb: Grizzled Ruby
     description: The Grizzled Ruby Utility Library
