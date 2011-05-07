@@ -5,8 +5,7 @@ body
     margin-right: 5em;
     margin-bottom: 2em;
 
-    border: 1px solid #ccc;
-
+    border: 1px solid #999999;
     border-radius: 10px;
     -moz-border-radius: 10px;
     padding: 10px;
@@ -44,10 +43,17 @@ span#tocHeading
 
 div#tocBlock
 {
+/*
     border-left: 2px solid black;
     border-bottom: 2px solid black;
     border-right: 2px solid #bbbbbb;
     border-top: 2px solid #bbbbbb;
+*/
+    border: 1px solid #999999;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    padding: 10px;
+
     margin-right: -4em;
     margin-left: 10px;
     background-color: #f0f0f0;
