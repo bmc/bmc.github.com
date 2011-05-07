@@ -1,21 +1,21 @@
 body
 {
-    border-top: 1em solid black;
-    border-left: 5em solid black;
-    border-right: 5em solid black;
-    border-bottom: 2em solid black;
-    background-color: black;
+    border-top: 1em solid #cccccc;
+    border-left: 5em solid #cccccc;
+    border-right: 5em solid #cccccc;
+    border-bottom: 2em solid #cccccc;
+
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+   padding: 10px;
+
+    background-color: #cccccc;
     margin: 0;
     padding: 0;
     font-family: Arial, Verdana, Helvetica, sans-serif;
     /* min-height: 95%; */
     /* height: 95%; */
     font-size: 11pt;
-}
-
-body.rounded-borders
-{
-    background-color: black;
 }
 
 div#content
