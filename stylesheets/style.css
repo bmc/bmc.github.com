@@ -1,9 +1,11 @@
 body
 {
-    border-top: 1em solid #cccccc;
-    border-left: 5em solid #cccccc;
-    border-right: 5em solid #cccccc;
-    border-bottom: 2em solid #cccccc;
+    margin-top: 1em;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-bottom: 2em;
+
+    border: 1px solid #cccc;
 
     border-radius: 10px;
     -moz-border-radius: 10px;
