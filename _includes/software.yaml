@@ -107,6 +107,10 @@
 
 - topic: Ruby Tools and Libraries
   items:
+  - url: http://software.clapper.org/dbusnotify/
+    blurb: dbusnotify
+    description: Command line tool to send notifications to DBUS
+
   - url: http://software.clapper.org/grinc/
     blurb: grinc
     description: A simple include-file preprocessor command
