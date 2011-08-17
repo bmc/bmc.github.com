@@ -27,9 +27,13 @@
     blurb: MarkWrap
     description: A unified Scala API for various lightweight markup languages, including Markdown and Textile
 
+  - url: http://software.clapper.org/sbt-editsource/
+    blurb: SBT EditSource plugin
+    description: A poor man's *sed* [SBT](https://github.com/harrah/xsbt) 0.10.x
+
   - url: http://software.clapper.org/sbt-plugins/
-    blurb: SBT Plugins
-    description: Various plugins for the [SBT](http://code.google.com/p/simple-build-tool) Scala build tool.
+    blurb: SBT 0.7 Plugins
+    description: Various plugins for [SBT](https://github.com/harrah/xsbt) 0.7.x
 
   - url: http://software.clapper.org/scalasti/
     blurb: Scalasti
