@@ -31,6 +31,10 @@
     blurb: SBT EditSource plugin
     description: A poor man's *sed* for [SBT](https://github.com/harrah/xsbt) 0.10.x
 
+  - url: http://software.clapper.org/sbt-izpack/
+    blurb: SBT IzPack plugin
+    description: SBT 0.10.x IzPack plugin
+
   - url: http://software.clapper.org/sbt-lwm/
     blurb: SBT lightweight markup plugin
     description: An [SBT](https://github.com/harrah/xsbt) 0.10.x plugin that converts Markdown and Textile documents to HTML
