@@ -214,6 +214,9 @@ pre
 
     background-color:#edf6fc;
     border: 1px dashed #666;
+
+    /* "display: inline-block" forces browser to shrink width to fit. */
+    display: inline-block;
 }
 
 .path
