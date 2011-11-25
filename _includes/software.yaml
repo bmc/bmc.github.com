@@ -142,3 +142,14 @@
     blurb: "*poll*(2) emulator"
     description: Routine to emulate System V *poll*(2) function for BSD Unix systems
 
+# ---------------------------------------------------------------------------
+
+- topic: Miscellaneous
+  items: 
+  - url: https://github.com/bmc/sublime-text-hacks
+    blurb: Sublime Text 2 hacks
+    description: Keymaps, plugins, etc., for the Sublime Text 2 text editor
+  - url: https://github.com/bmc/TextMate-hacks
+    blurb: TextMate hacks
+    description: Keymaps, themes, etc., for the TextMate text editor
+
