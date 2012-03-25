@@ -10,7 +10,7 @@ task :jekyll do |t|
 end
 
 file SOFTWARE_HTML => [ SOFTWARE_YAML, 'index.md'] do |t|
-    require 'filetable'
+    require_relative 'filetable'
     HTMLFromYAML.new(SOFTWARE_YAML, SOFTWARE_HTML,
                      {'css_prefix' => 'software'}).make
 end
