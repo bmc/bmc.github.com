@@ -111,10 +111,6 @@
     blurb: sqlcmd
     description: A cross-platform, cross-database SQL command line tool. (Superseded by SQLShell.)
 
-  - url: http://github.com/bmc/grizzled-wing/
-    blurb: Grizzled Wing IDE commands
-    description: Additional Emacs emulation commands for the Wing Python IDE
-
 # ---------------------------------------------------------------------------
 
 - topic: Ruby Tools and Libraries
