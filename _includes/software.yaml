@@ -123,6 +123,10 @@
     blurb: grinc
     description: A simple include-file preprocessor command
 
+  - url: http://software.clapper.org/grizzled-rails-logger/
+    blurb: Grizzled Rails Logger
+    description: Useful extensions to the stock Rails 3 logger.
+
   - url: http://software.clapper.org/grizzled-ruby/
     blurb: Grizzled Ruby
     description: The Grizzled Ruby Utility Library
