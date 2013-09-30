@@ -36,5 +36,7 @@ Here are the plugins:
 [Scala Bukkit plugin API]: https://github.com/joshcough/MinecraftPlugins
 [Creature Catcher]: https://github.com/bmc/mc-creature-catcher
 [Endless Dispenser]: https://github.com/bmc/mc-endless-dispenser
+[Nickname]: https://github.com/bmc/mc-nickname
 [MobCatcher]: http://dev.bukkit.org/bukkit-plugins/mobcatcher/
 [Essentials]: http://dev.bukkit.org/bukkit-plugins/essentials/
+
