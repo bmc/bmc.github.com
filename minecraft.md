@@ -1,5 +1,5 @@
 ---
-layout: withTOC
+layout: default
 title: Minecraft Plugins
 ---
 

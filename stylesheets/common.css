@@ -1,0 +1,20 @@
+span.gh-repo
+{
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-style: italic;
+    zoom: 1;
+}
+
+/* http://stackoverflow.com/questions/490184 */
+
+span.gh-repo:after {
+    content: "."
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}

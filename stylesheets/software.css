@@ -64,12 +64,3 @@ div#content
     width: 800px;
     float: center;
 }
-
-span.gh-repo
-{
-    float: right;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    font-weight: bold;
-    font-style: italic;
-}
