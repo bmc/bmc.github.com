@@ -1,4 +1,7 @@
 ---
+layout: default
+title: Minecraft Plugins
+---
 
 I run a small, private [Minecraft][] [Bukkit][] server for my daughter and
 her friends. Using Josh Cough's [Scala Bukkit plugin API][], I've written a
