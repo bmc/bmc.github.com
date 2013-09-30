@@ -146,7 +146,7 @@
 
 - topic: Minecraft Plugins
   items:
-  - url: minecraft.html
+  - url: minecraft-plugins.html
     blurb: Minecraft Plugins
     description: Miscellaneous Minecraft server plugins
 
