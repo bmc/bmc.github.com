@@ -6,7 +6,7 @@ SOFTWARE_HTML = '_includes/software.html'
 task :default => [SOFTWARE_HTML, :jekyll]
 
 task :jekyll do |t|
-    sh 'jekyll'
+    sh 'jekyll build'
 end
 
 file SOFTWARE_HTML => [ SOFTWARE_YAML, 'index.md'] do |t|

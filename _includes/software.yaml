@@ -144,6 +144,20 @@
 
 # ---------------------------------------------------------------------------
 
+- topic: Minecraft Plugins
+  items:
+  - url: minecraft.html
+    blurb: Minecraft Plugins
+    description: Miscellaneous Minecraft server plugins
+
+- topic: Minecraft Plugins and Libraries
+  items: 
+  - url: https://github.com/bmc/mclib
+    blurb: mclib
+    description: Minecraft Scala utility library
+
+# ---------------------------------------------------------------------------
+
 - topic: Miscellaneous
   items: 
   - url: http://software.clapper.org/ST2EmacsMiscellanea
