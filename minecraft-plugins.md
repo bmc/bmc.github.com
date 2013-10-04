@@ -32,7 +32,9 @@ Here are the plugins:
   sample plugin.
 
 - [RandomTeleport][] is yet _another_ plugin to teleport a user to a
-  random in-world location.
+  random in-world location. There are numerous other random-teleport
+  plugins. I wrote my own, for several reasons (as outlined on the
+  plugin's [GitHub page][RandomTeleport].
 
 [Minecraft]: http://minecraft.net/
 [Bukkit]: http://bukkit.org/
