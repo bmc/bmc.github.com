@@ -31,12 +31,16 @@ Here are the plugins:
   use my plugin myself, though; and, I keep it around because it's a good
   sample plugin.
 
+- [RandomTeleport][] is yet _another_ plugin to teleport a user to a
+  random in-world location.
+
 [Minecraft]: http://minecraft.net/
 [Bukkit]: http://bukkit.org/
 [Scala Bukkit plugin API]: https://github.com/joshcough/MinecraftPlugins
 [Creature Catcher]: https://github.com/bmc/mc-creature-catcher
 [Endless Dispenser]: https://github.com/bmc/mc-endless-dispenser
 [Nickname]: https://github.com/bmc/mc-nickname
+[RandomTeleport]: https://github.com/bmc/mc-random-teleport
 [MobCatcher]: http://dev.bukkit.org/bukkit-plugins/mobcatcher/
 [Essentials]: http://dev.bukkit.org/bukkit-plugins/essentials/
 
