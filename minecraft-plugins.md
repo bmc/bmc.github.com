@@ -25,7 +25,7 @@ Here are the plugins:
 - [Endless Dispenser][] allows users to convert a dispenser into an
   endless, or infinite, dispenser that never runs out of items.
 
-- [NearbyThings][] allows players to "see" objects and creatures that
+- [Nearby Things][] allows players to "see" objects and creatures that
   are nearby.
 
 - [Nickname][] allows users to change their display names. Nicknames
@@ -48,4 +48,4 @@ Here are the plugins:
 [RandomTeleport]: https://github.com/bmc/mc-random-teleport
 [MobCatcher]: http://dev.bukkit.org/bukkit-plugins/mobcatcher/
 [Essentials]: http://dev.bukkit.org/bukkit-plugins/essentials/
-[NearbyThings]: https://github.com/bmc/mc-nearby-things
+[Nearby Things]: https://github.com/bmc/mc-nearby-things
