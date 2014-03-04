@@ -212,7 +212,7 @@ pre
     margin-left: 3em;
     padding: 10px;
 
-    background-color: #555;
+    background-color: #111;
     border: 1px dashed #666;
 
     /* "display: inline-block" forces browser to shrink width to fit. */
