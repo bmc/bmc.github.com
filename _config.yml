@@ -1,2 +1,3 @@
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 pygments: false
+markdown: kramdown
