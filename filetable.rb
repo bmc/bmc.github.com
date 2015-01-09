@@ -85,7 +85,7 @@ class HTMLFromYAML
   end
 
   def markdown2html(s)
-    Kramdown::Document.new(s).to_html
+    Kramdown::Document.new(s).to_html.gsub(%r{</?p>}, "")
   end
 
   def entry(blurb, link, desc)
