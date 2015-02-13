@@ -160,6 +160,9 @@
 
 - topic: Miscellaneous
   items: 
+  - url: https://github.com/bmc/pwguard
+    blurb: "PWGuard: A password vault"
+    description: A web-based password vault, written using the Play Framework, Scala, and AngularJS
   - url: http://software.clapper.org/ST2EmacsMiscellanea
     blurb: Sublime Text 2 Emacs hacks
     description: Emacs-oriented keymaps, plugins, etc., for the Sublime Text 2 text editor
