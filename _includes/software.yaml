@@ -133,6 +133,14 @@
 
 # ---------------------------------------------------------------------------
 
+- topic: Go Tools and Libraries
+  items: 
+  - url: https://github.com/bmc/fortune-go
+    blurb: fortune
+    description: A version of fortune written in Go
+
+# ---------------------------------------------------------------------------
+
 - topic: C Tools and Libraries
   items: 
   - url: http://software.clapper.org/daemonize/
