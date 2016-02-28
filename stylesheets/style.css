@@ -175,7 +175,7 @@ a
     text-decoration: none;
     padding-bottom: 3px;
     border-bottom: 1px solid #999999;
-    box-shadow: 0 -4px 0 #3333aa inset;
+    box-shadow: 0 -4px 0 #999999 inset;
 }
 
 a:link
@@ -183,7 +183,7 @@ a:link
 /*
     color: red;
 */
-    color: #3333aa;
+    color: #999999;
 }
 
 a:visited
