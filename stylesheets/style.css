@@ -178,6 +178,11 @@ a
     box-shadow: 0 -2px 0 #999999 inset;
 }
 
+a img {
+  border: none;
+  text-decoration: none;
+}
+
 a:link
 {
 /*
