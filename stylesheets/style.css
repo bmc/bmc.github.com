@@ -174,8 +174,8 @@ a
 {
     text-decoration: none;
     /* padding-bottom: 2px; */
-    border-bottom: 1px solid #999999;
-    box-shadow: 0 -2px 0 #999999 inset;
+    border-bottom: 1px solid #666666;
+    box-shadow: 0 -2px 0 #666666 inset;
 }
 
 a img {
@@ -188,12 +188,12 @@ a:link
 /*
     color: red;
 */
-    color: #999999;
+    color: #666666;
 }
 
 a:visited
 {
-    color: #770099;
+    color: #888888;
 }
 
 a:hover
