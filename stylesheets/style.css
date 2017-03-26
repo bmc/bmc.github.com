@@ -193,7 +193,9 @@ a:link
 
 a:visited
 {
+  color: #666666;
   border-bottom: 1px dashed #666666;
+  box-shadow: 0 -2px 0 #666666 inset;
 }
 
 a:hover
@@ -202,7 +204,9 @@ a:hover
     background-color: #eed2ee;
     color: #000000;
 */
-    color: grey;
+  color: red;
+  border-bottom: 1px dashed #red;
+  box-shadow: 0 -2px 0 #red inset;
 }
 
 .fakelink { color: #ff0000; }
