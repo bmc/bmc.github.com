@@ -183,6 +183,11 @@ a img {
   text-decoration: none;
 }
 
+a.badge {
+  border: none;
+  text-decoration: none;
+}
+
 a:link
 {
 /*
