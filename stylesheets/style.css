@@ -23,6 +23,10 @@ div#content
     /* height: 100%; */
 }
 
+code, pre, tt {
+    font-family: Mensch, Menlo, Consolas, Monaco, "Source Code Pro", "Courier New", monospace;
+}
+
 /* --- START table of contents styling. See toc.js */
 
 div#toc
