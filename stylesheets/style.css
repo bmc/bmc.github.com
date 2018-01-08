@@ -25,6 +25,8 @@ div#content
 
 code, pre, tt {
     font-family: Mensch, Menlo, Consolas, Monaco, "Source Code Pro", "Courier New", monospace;
+    // mimic GitHub
+    background-color: rgba(27,31,35,0.05);
 }
 
 /* --- START table of contents styling. See toc.js */
